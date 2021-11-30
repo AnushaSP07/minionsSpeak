@@ -46,7 +46,7 @@ button {
   font-size: large;
 }
 
-#translate-output {
+#output {
   box-sizing: border-box;
   width: 100%;
   min-height: 10vh;
